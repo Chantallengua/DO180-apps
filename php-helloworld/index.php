@@ -1,4 +1,3 @@
 <?php
-print "Hello, World! php version is " . PHP_VERSION . "\n";
-print "AAAAAAAAA change is in the air "  "\n";
+print "Hello, World! Ancora e di nuovo e basta. php version is " . PHP_VERSION . "\n";
 ?>
